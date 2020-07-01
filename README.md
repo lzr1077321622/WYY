@@ -12,12 +12,4 @@ npm run dev 启动项目
 npm run build 打包项目
 ```
 
-  - 登录页面
-![N|Solid](https://github.com/lzr1077321622/vue2/blob/master/src/assets/img/1.png?raw=true)
- - 后台首页
- - ![N|Solid](https://github.com/lzr1077321622/vue2/blob/master/src/assets/img/2.png?raw=true)
-  - 测试页面
- - ![N|Solid](https://github.com/lzr1077321622/vue2/blob/master/src/assets/img/3.png?raw=true)
-   
-
 
